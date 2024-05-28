@@ -51,3 +51,7 @@ rollno_2.fn()
 
 rollno_3 = Student("sai","charan","velamal")
 print(rollno_3)
+
+
+rollno_4 = Student("admin","vidya","ocean")
+print(rollno_4)
