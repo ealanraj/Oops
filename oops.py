@@ -48,3 +48,6 @@ rollno_2 = Student("Krishna","Divakar","achariya")
 print(rollno_2)
 rollno_2.ln()
 rollno_2.fn()
+
+rollno_3 = Student("sai","charan","velamal")
+print(rollno_3)
